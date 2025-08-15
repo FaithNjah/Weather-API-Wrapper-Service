@@ -18,7 +18,7 @@ Built with **Node.js** and **Express.js**, this project demonstrates **API integ
 - Express.js  
 - Third-Party API Integration  
 - Caching Strategies (In-memory / Redis)  
-- Environment Variable Management  
+
 
 ---
 
